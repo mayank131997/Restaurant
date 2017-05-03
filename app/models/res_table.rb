@@ -1,0 +1,2 @@
+class ResTable < ApplicationRecord
+end

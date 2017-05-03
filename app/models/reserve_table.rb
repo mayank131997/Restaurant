@@ -1,0 +1,2 @@
+class ReserveTable < ApplicationRecord
+end
